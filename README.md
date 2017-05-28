@@ -1,3 +1,10 @@
+# My Polymer 2 Template - based on Polymer App Toolbox - Starter Kit
+The only few changes made to the original source is that the app drawer stays closed (force-narrow) as well as enabling swipe to open (swipe-open) - because, who wants to leave the drawer open, even when using responsive layout - and wouldn't it be nice to swipe when on mobile?
+
+I'll leave everything else untouched, even the readme.md (except for these first few lines).
+
+
+
 # Polymer App Toolbox - Starter Kit
 
 [![Build Status](https://travis-ci.org/PolymerElements/polymer-starter-kit.svg?branch=master)](https://travis-ci.org/PolymerElements/polymer-starter-kit)
